@@ -5,6 +5,6 @@ Just for me
 #Requires AutoHotkey v2.0
 SC07B & Space::
 {
-    Send "{vkF3}"
+    Send "{vkF3}"    Muhenkan & Space -> Zenkaku
 }
 ```
